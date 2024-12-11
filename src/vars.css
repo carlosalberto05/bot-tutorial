@@ -1,0 +1,14 @@
+:root {
+	/* Define colors*/
+	--color-text: #ffffff;
+	--color-text2: black;
+	--color-primary: #576cbc;
+	--color-secondary: #19376d;
+	--color-dark: #0b2447;
+	--color-bg: rgb(243,243,246);
+	--color-nav: rgba(164,211,221,0.3);
+
+	/* Fonts*/
+	--font-roboto: "Roboto";
+	
+}
